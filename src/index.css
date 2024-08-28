@@ -11,8 +11,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.wide {
+    width: 200px;
+}
+
 .card {
-    padding: 2rem;
-    border-radius: 10px;
     margin-bottom: 1rem;
 }
